@@ -211,7 +211,7 @@ function adicionarNome() {
         nomes.push(nome);
         nomeInput.value = "";
         mostrarNomes(); // Atualizar a lista de nomes na página
-        alert("Nome adicionado com sucesso!");
+        // alert("Nome adicionado com sucesso!");
     } else {
         alert("Por favor, insira um nome válido.");
     }
