@@ -4,6 +4,7 @@
 
 ![image](https://github.com/GabrieLobatoCabral/shorts_summary_IA/assets/113934416/8bb3a06a-d3f6-4165-8cdb-25f5105bc67e)
 
+[📎 Clique aqui para acessar o projeto](https://gabrielobatocabral.github.io/jogo_da_verdade/)
 ### Resumo
 
 Este projeto é um jogo com diversas perguntas, o jogador pode cadastrar novos jogadores e sortear nomes, após sortear o nomes e clicar no botão de pergunta, a aplicação exite aleatoriamente uma das pergunta pré registras no script da aplicação.
